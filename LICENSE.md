@@ -1,1 +1,0 @@
-<License text goes here>
